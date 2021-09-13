@@ -1,4 +1,4 @@
-# DSA-60Days
+## DSA-60Days
 # DAY-1
 
 Solved some practice questions
