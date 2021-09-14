@@ -51,7 +51,9 @@ int main()
     cout << &a << endl;
 
     p1=p1+1;
-    a=a+1;
-    cout << p1 << " " << a << endl;    
+    cout << p1 << endl;    
+    // arr=arr+1; error
+    p1 = arr+1;
+    cout << p1 << endl;    
 
 }
