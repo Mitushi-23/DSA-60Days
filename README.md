@@ -13,3 +13,6 @@
 * Revised Character pointers, Pointers and function and double pointers
 * Also practiced some basic question on pointers
 * [Some basic questions on pointers](http://www.allindiaexams.in/engineering/cse/c-p-p-multiple-choice-questions-answers/cpp-pointers)
+
+## DAY-4
+* Revised TypeCasting and Referance Variables
