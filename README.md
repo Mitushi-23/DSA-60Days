@@ -19,3 +19,9 @@
 
 ## DAY-5
 * [Sloved questions on 1d and 2d array](https://www.javatpoint.com/array-in-java)
+
+## DAY-6
+* Dynamic Memory Allocation
+* Define keyword
+* Const Variables
+* Global variables
