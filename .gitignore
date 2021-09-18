@@ -9,3 +9,9 @@ ques2
 ReferanceVariable
 TypeCasting
 .class
+const_pointers
+const_variables
+define_keyword
+Dynamic_Memory
+global_variables
+inline
