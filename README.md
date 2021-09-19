@@ -27,6 +27,6 @@
 * Global variables
 
 ## DAY-7
-* Method
+* Methods
 * Scope
 * Practiced problems on methods
