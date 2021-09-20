@@ -25,3 +25,8 @@
 * Define keyword
 * Const Variables
 * Global variables
+
+## DAY-7
+* Methods
+* Scope
+* Practiced problems on methods
