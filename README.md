@@ -30,3 +30,6 @@
 * Methods
 * Scope
 * Practiced problems on methods
+
+## DAY-8
+* Revised Bubble Sort and its complexicity.
