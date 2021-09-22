@@ -36,3 +36,7 @@
 
 ## DAY-9
 * Practiced Questions on Recursion
+
+## DAY-10
+* Revised Recursion
+* Practiced Questions on Recursion
