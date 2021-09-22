@@ -15,3 +15,9 @@ define_keyword
 Dynamic_Memory
 global_variables
 inline
+allIndex
+findElement
+firstIndex
+lastIndex
+sortedArray
+sumArray
