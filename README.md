@@ -40,3 +40,6 @@
 ## DAY-10
 * Revised Recursion
 * Practiced Questions on Recursion
+
+## DAY-11
+*Selection Sort and Insertion Sort
