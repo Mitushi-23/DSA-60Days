@@ -1,7 +1,8 @@
+//Bubble Sort is the simplest sorting algorithm that works by repeatedly swapping the adjacent elements if they are in wrong order.
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class bubbleSort {
+public class bubbleSort_Recursive {
     public static void main(String[] args) {
             Scanner sc = new Scanner (System.in);
             int n;
