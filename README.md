@@ -43,3 +43,6 @@
 
 ## DAY-11
 * Selection Sort and Insertion Sort
+
+## DAY-12
+* Quick Sort and Merge Sort
