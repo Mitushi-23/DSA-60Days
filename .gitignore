@@ -21,3 +21,5 @@ firstIndex
 lastIndex
 sortedArray
 sumArray
+mergeSort
+quickSort
