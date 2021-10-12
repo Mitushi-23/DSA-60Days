@@ -1,0 +1,8 @@
+file:///home/mitushi/Pictures/Screenshot_20211012_205449.png
+
+a1(b1^p) + a2(b2^p) + a3(b3^p) + a4(b4^p) + ..... = 1
+
+from this equation we can find out p.
+
+Divide and Conquer Recursion
+ T(X) = a1 T(b1x + E1x) + a2 T(b2x + E2x) + ..... + ak T(bkx + Ekx) + g(x) 
