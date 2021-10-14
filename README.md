@@ -46,3 +46,6 @@
 
 ## DAY-12
 * Quick Sort and Merge Sort
+
+## DAY-13
+* Studied Time and Space Complexicity
