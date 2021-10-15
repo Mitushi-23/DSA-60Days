@@ -58,3 +58,7 @@
 
 ## DAY-16
 * Practiced problems on Complexicty
+* [Life, the Universe, and Everything](https://www.codechef.com/LRNDSA01/problems/TEST)
+* [Smart Phone](https://www.codechef.com/LRNDSA01/problems/ZCO14003)
+* [Carvans](https://www.codechef.com/LRNDSA01/problems/CARVANS)
+* [Factorial](https://www.codechef.com/LRNDSA01/problems/FCTRL)
