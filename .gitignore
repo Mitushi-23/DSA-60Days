@@ -29,3 +29,7 @@ ComplexNumbers
 UseComplexNumbers
 Student
 StudentUse
+Student
+ConstStudent
+UseConstStudent
+UseStudent
