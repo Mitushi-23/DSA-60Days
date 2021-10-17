@@ -65,3 +65,6 @@
 
 ## DAY-17 
 * Studied Shallow Copy constructor and Deep Copy Constructor
+
+## DAY-18
+* Studied initialisation list, static members and operator overloading
