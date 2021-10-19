@@ -68,3 +68,9 @@
 
 ## DAY-18
 * Studied initialisation list, static members and operator overloading
+
+## DAY-19
+* Studied dynamic array in opps
+
+## DAY-20
+* Practiced some questions on oops
