@@ -74,3 +74,7 @@
 
 ## DAY-20
 * Practiced some questions on oops
+
+## DAY-21
+* Started Linked List
+* Solved a [question](http://sprunge.us/8KJiPl) on OOPs
