@@ -73,4 +73,8 @@
 * Studied dynamic array in opps
 
 ## DAY-20
-* Practiced some questions on oops
+* Practiced some [questions](http://sprunge.us/p1K46o) on oops
+
+## DAY-21
+* Started Linked List
+* Solved a [question](http://sprunge.us/8KJiPl) on OOPs
