@@ -78,3 +78,6 @@
 ## DAY-21
 * Started Linked List
 * Solved a [question](http://sprunge.us/8KJiPl) on OOPs
+
+## DAY-22
+* Revised some basics of linked list
