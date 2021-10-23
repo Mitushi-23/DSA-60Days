@@ -81,3 +81,7 @@
 
 ## DAY-22
 * Revised some basics of linked list
+
+## DAY-23
+* Done iterative insertion and deletion in linked list
+* Also practiced some questions on linked list
