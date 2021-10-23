@@ -43,3 +43,9 @@ Node
 String
 StringUse
 Input
+code1
+element_at_i
+length
+q3
+insert_atposition_i
+delete_atposition_i
