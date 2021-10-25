@@ -85,3 +85,6 @@
 ## DAY-23
 * Done iterative insertion and deletion in linked list
 * Also practiced some questions on linked list
+
+## DAY-24
+* Practiced questions on linked list using recursion 
