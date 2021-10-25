@@ -4,6 +4,7 @@ using namespace std;
 
 Node *takeInput()
 {
+    cout << "Enter the elements" << endl;
     int data;
     cin >> data;
     Node *head = NULL;
@@ -30,6 +31,7 @@ Node *takeInput()
 
 Node *takeInput_better()
 {
+    cout << "Enter the elements" << endl;
     int data;
     cin >> data;
     Node *head = NULL;

@@ -49,3 +49,7 @@ length
 q3
 insert_atposition_i
 delete_atposition_i
+length_recursive
+insert_recursive
+delete_recursive
+position_N
