@@ -88,3 +88,6 @@
 
 ## DAY-24
 * Practiced questions on linked list using recursion 
+
+## DAY-25
+* Practiced questions on linked list
