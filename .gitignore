@@ -53,3 +53,9 @@ length_recursive
 insert_recursive
 delete_recursive
 position_N
+appendLastNtoFirst
+removeDuplicates
+pallindrome
+reverse
+reverse_recursive
+MidpointLinkedList

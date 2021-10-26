@@ -31,7 +31,7 @@ Node *takeInput()
 
 Node *takeInput_better()
 {
-    cout << "Enter the elements" << endl;
+    // cout << "Enter the elements" << endl;
     int data;
     cin >> data;
     Node *head = NULL;
