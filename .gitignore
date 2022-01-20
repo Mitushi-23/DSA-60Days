@@ -59,3 +59,8 @@ pallindrome
 reverse
 reverse_recursive
 MidpointLinkedList
+deleteEveryNnodes
+evenAfterOdd
+kReverse
+MergeSortedLL
+swapNodes
