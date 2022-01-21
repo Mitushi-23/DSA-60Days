@@ -64,3 +64,8 @@ evenAfterOdd
 kReverse
 MergeSortedLL
 swapNodes
+stack
+PairUse
+StackUsingLL
+stackUsingTemplate
+BalancedBrackets
