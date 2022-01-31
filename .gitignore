@@ -69,3 +69,6 @@ PairUse
 StackUsingLL
 stackUsingTemplate
 BalancedBrackets
+queue
+queueUsingLL
+inbuiltQueue
