@@ -239,6 +239,20 @@ void TreeFromIn_Pre(int in[], int pre[])
     
 }
 
+int NodeSum(BinaryTreeNode<int>*root)
+{
+    if(root == NULL)
+    {
+        return 0;
+    }
+    return root->data + NodeSum(root->left) + NodeSum(root->right);
+}
+
+bool balanced(BinaryTreeNode<int>*root)
+{
+    
+}
+
 int main()
 {
     /*
@@ -269,6 +283,7 @@ int main()
     cout << endl;
     inOrder(root);
     cout << endl;
+    cout << NodeSum(root) << endl;
     delete root;
 }
 
