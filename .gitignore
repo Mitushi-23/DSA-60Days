@@ -96,3 +96,7 @@ inbuilt_map
 maxFrequency
 ArrayIntersection
 uniqueCharacters
+iterator
+longestConsecutive
+longestConsecutiveGFG
+pairWithDifference
