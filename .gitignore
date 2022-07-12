@@ -100,3 +100,12 @@ iterator
 longestConsecutive
 longestConsecutiveGFG
 pairWithDifference
+priorityQueue/priorityQueue
+inplaceHeap
+inbuiltPriorityQueue
+kSortedArray
+kLargest
+kSmallest
+checkMaxHeap
+kthLargest
+mergeKsortedArray
